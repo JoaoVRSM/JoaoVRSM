@@ -114,11 +114,11 @@ const duelista = {
 
 <div align="center">
   <a href="https://github.com/JoaoVRSM">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoaoVRSM&show_icons=true&hide_border=true&bg_color=1a0a2e&title_color=ffd700&icon_color=daa520&text_color=c9d1d9&ring_color=b8860b" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVRSM&show_icons=true&hide_border=true&bg_color=1a0a2e&title_color=ffd700&icon_color=daa520&text_color=c9d1d9&ring_color=b8860b" alt="GitHub Stats"/>
   </a>
   &nbsp;
   <a href="https://github.com/JoaoVRSM">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoVRSM&layout=compact&hide_border=true&bg_color=1a0a2e&title_color=ffd700&text_color=c9d1d9" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVRSM&layout=compact&hide_border=true&bg_color=1a0a2e&title_color=ffd700&text_color=c9d1d9" alt="Top Languages"/>
   </a>
 </div>
 
@@ -140,25 +140,7 @@ const duelista = {
 
 <br>
 
----
 
-<br>
-
-<h2 align="center">🏆 Troféus do Torneio</h2>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/JoaoVRSM">
-    <img src="https://github-profile-trophy.vercel.app/?username=JoaoVRSM&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" width="85%" alt="GitHub Trophies"/>
-  </a>
-</div>
-
-<br>
-
----
-
-<br>
 
 <div align="center">
 
