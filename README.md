@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,25:2d1b69,50:b8860b,75:2d1b69,100:1a0a2e&height=250&section=header&text=Jo%C3%A3o%20Victor&fontSize=65&fontColor=ffd700&animation=fadeIn&fontAlignY=30&desc=%E2%9C%A6%20Its%20time%20to%20D-D-D-DUEL%20%E2%9C%A6&descSize=20&descAlignY=55&descColor=daa520"/>
 
@@ -46,12 +46,12 @@
 
 ```js
 const duelista = {
-    nome: "João Victor",
-    titulo: "⚡ O Programador das Sombras",
-    reino: "Brasil 🇧🇷",
-    academia: "PUC Minas — ADS",
+    nome: "Joao Victor",
+    titulo: "O Programador das Sombras",
+    reino: "Brasil",
+    academia: "PUC Minas - ADS",
     deckPrincipal: ["Node.js", "Python", "JavaScript"],
-    cartaFavorita: "Mago Negro 🧙‍♂️",
+    cartaFavorita: "Mago Negro",
     lifePoints: 8000,
     vitorias: "++crescendo"
 };
@@ -185,4 +185,4 @@ const duelista = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,25:2d1b69,50:b8860b,75:2d1b69,100:1a0a2e&height=120&section=footer"/>
 
 </div>
-]]>
+
