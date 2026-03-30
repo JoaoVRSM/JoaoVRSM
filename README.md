@@ -44,11 +44,6 @@
 
 <br>
 
-<div align="center">
-<table>
-<tr>
-<td>
-
 ```js
 const duelista = {
     nome: "João Victor",
@@ -62,23 +57,13 @@ const duelista = {
 };
 ```
 
-</td>
-<td>
+<br>
 
-🎓 Estudante de **ADS** na **PUC Minas**
-
-💰 Criador de **bots de pagamento automatizado**
-
-🧙‍♂️ Meu deck: **JavaScript** + **Python** + **Node.js**
-
-🌑 Codifico no **Reino das Sombras** (de madrugada)
-
-☕ Carta armadilha ativada: **Café Infinito!**
-
-</td>
-</tr>
-</table>
-</div>
+- 🎓 Estudante de **ADS** na **PUC Minas**
+- 💰 Criador de **bots de pagamento automatizado**
+- 🧙‍♂️ Meu deck: **JavaScript** + **Python** + **Node.js**
+- 🌑 Codifico no **Reino das Sombras** (de madrugada)
+- ☕ Carta armadilha ativada: **Café Infinito!**
 
 <br>
 
@@ -129,11 +114,11 @@ const duelista = {
 
 <div align="center">
   <a href="https://github.com/JoaoVRSM">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVRSM&show_icons=true&hide_border=true&bg_color=1a0a2e&title_color=ffd700&icon_color=daa520&text_color=c9d1d9&ring_color=b8860b" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoaoVRSM&show_icons=true&hide_border=true&bg_color=1a0a2e&title_color=ffd700&icon_color=daa520&text_color=c9d1d9&ring_color=b8860b" alt="GitHub Stats"/>
   </a>
   &nbsp;
   <a href="https://github.com/JoaoVRSM">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVRSM&layout=compact&hide_border=true&bg_color=1a0a2e&title_color=ffd700&text_color=c9d1d9" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoVRSM&layout=compact&hide_border=true&bg_color=1a0a2e&title_color=ffd700&text_color=c9d1d9" alt="Top Languages"/>
   </a>
 </div>
 
