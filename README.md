@@ -109,23 +109,20 @@ const joaoVRSM = {
 
 ## 📊 Painel do Duelo
 
-<a href="https://github.com/JoaoVRSM">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=JoaoVRSM&show_icons=true&hide_border=true&bg_color=080B18&title_color=F4C95D&icon_color=7B2CBF&text_color=E5E7EB&ring_color=F4C95D" alt="GitHub Stats"/>
+<a href="https://github.com/JoaoVRSM?tab=followers">
+  <img src="https://img.shields.io/github/followers/JoaoVRSM?style=for-the-badge&label=seguidores&color=7B2CBF" alt="Seguidores"/>
+</a>
+<a href="https://github.com/JoaoVRSM?tab=repositories">
+  <img src="https://img.shields.io/github/search?query=user%3AJoaoVRSM&style=for-the-badge&label=repositórios&color=0EA5E9" alt="Repositórios"/>
 </a>
 <a href="https://github.com/JoaoVRSM">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVRSM&layout=compact&hide_border=true&bg_color=080B18&title_color=F4C95D&text_color=E5E7EB" alt="Top Languages"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/JoaoVRSM">
-  <img width="88%" src="https://streak-stats.demolab.com?user=JoaoVRSM&hide_border=true&background=080B18&ring=F4C95D&fire=FF6B35&currStreakLabel=F4C95D&sideLabels=E5E7EB&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8&stroke=102A43" alt="GitHub Streak"/>
+  <img src="https://img.shields.io/github/created-at/JoaoVRSM/JoaoVRSM?style=for-the-badge&label=perfil%20desde&color=F4C95D" alt="Data de criação do perfil"/>
 </a>
 
 <br><br>
 
-<a href="https://github.com/JoaoVRSM">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoVRSM&bg_color=080B18&color=F4C95D&line=7B2CBF&point=F8FAFC&area=true&area_color=102A43&hide_border=true" alt="Activity Graph"/>
+<a href="https://github.com/JoaoVRSM?tab=repositories">
+  <img src="https://img.shields.io/badge/stack-JavaScript%20%7C%20Node.js%20%7C%20Python-080B18?style=for-the-badge&logo=code&logoColor=F4C95D" alt="Stack principal"/>
 </a>
 
 </div>
