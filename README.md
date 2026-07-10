@@ -1,138 +1,93 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,35:102A43,65:F4C95D,100:7B2CBF&height=230&section=header&text=Jo%C3%A3o%20Victor&fontSize=64&fontColor=F8FAFC&animation=fadeIn&fontAlignY=34&desc=Full%20Stack%20Developer%20in%20progress%20%7C%20ADS%20-%20PUC%20Minas&descSize=18&descAlignY=58&descColor=F4C95D" alt="Header João Victor"/>
+# João Victor
 
-<a href="https://github.com/JoaoVRSM">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=F4C95D&center=true&vCenter=true&width=720&height=48&lines=Eu+transformo+ideias+em+sistemas.;Node.js+%7C+Python+%7C+JavaScript;Bots%2C+APIs+e+automacoes+com+proposito.;Hora+do+duelo%3A+codigo+em+modo+de+ataque." alt="Typing SVG"/>
-</a>
+### Desenvolvedor Full Stack em formação
+
+Transformo ideias em sistemas simples, úteis e bem construídos.
 
 <br>
 
+<a href="https://github.com/JoaoVRSM?tab=repositories">
+  <img src="https://img.shields.io/badge/PROJETOS-VER%20REPOSITÓRIOS-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Ver projetos"/>
+</a>
 <a href="https://github.com/JoaoVRSM?tab=followers">
-  <img src="https://img.shields.io/github/followers/JoaoVRSM?style=for-the-badge&logo=github&logoColor=F4C95D&labelColor=080B18&color=7B2CBF&label=Seguidores" alt="Seguidores"/>
+  <img src="https://img.shields.io/github/followers/JoaoVRSM?style=for-the-badge&logo=github&logoColor=white&label=SEGUIR&color=7B2CBF" alt="Seguir no GitHub"/>
 </a>
-&nbsp;
-<a href="https://github.com/JoaoVRSM">
-  <img src="https://img.shields.io/badge/status-sempre%20aprendendo-7B2CBF?style=for-the-badge" alt="Sempre aprendendo"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Codando%20no%20Reino%20das%20Sombras-F4C95D?style=for-the-badge&labelColor=080B18" alt="Status"/>
 
 </div>
 
-<br>
+---
 
 <table>
   <tr>
-    <td width="38%" align="center">
-      <img src="https://raw.githubusercontent.com/JoaoVRSM/JoaoVRSM/main/yugioh_card.png" width="280" alt="Joao Victor - The Coder Yu-Gi-Oh Card"/>
-      <br>
-      <sub><strong>ATK/2600</strong> &nbsp; <strong>DEF/2100</strong></sub>
+    <td width="34%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/JoaoVRSM/JoaoVRSM/main/yugioh_card.png" width="250" alt="Carta de desenvolvedor do João Victor"/>
     </td>
-    <td width="62%">
-      <h2>🃏 Carta do Duelista</h2>
+    <td width="66%" valign="middle">
+      <h2>Sobre mim</h2>
       <p>
-        Sou o <strong>João Victor</strong>, estudante de <strong>ADS na PUC Minas</strong>,
-        focado em construir sistemas web, automações e integrações que resolvem problemas reais.
+        Estudante de <strong>Análise e Desenvolvimento de Sistemas na PUC Minas</strong>,
+        com foco em backend, automações, bots e integrações.
       </p>
       <p>
-        Meu deck principal mistura <strong>JavaScript</strong>, <strong>Node.js</strong>,
-        <strong>Python</strong>, APIs, bots e uma boa dose de curiosidade.
+        Gosto de construir projetos que saem do papel e resolvem problemas reais,
+        combinando código direto, boas integrações e aprendizado constante.
       </p>
-      <ul>
-        <li>💰 Criador de bots de pagamento automatizado</li>
-        <li>⚙️ Interesse forte em backend, APIs e automações</li>
-        <li>🎓 Estudante de Análise e Desenvolvimento de Sistemas</li>
-        <li>☕ Efeito contínuo: café + código + aprendizado</li>
-      </ul>
+      <p>
+        <strong>Em campo agora:</strong> Node.js, Python, APIs REST,
+        Telegram Bots e pagamentos com Mercado Pago.
+      </p>
+      <sub><strong>ATK 2600</strong> · <strong>DEF 2100</strong> · efeito contínuo: curiosidade</sub>
     </td>
   </tr>
 </table>
 
-<br>
+---
 
 <div align="center">
 
-## ⚔️ Arsenal de Tecnologias
+## Deck técnico
 
 ### Linguagens
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 
-### Backend e Ferramentas
+### Backend e ferramentas
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/REST%20APIs-0EA5E9?style=flat-square&logo=fastapi&logoColor=white" alt="APIs REST"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 
 ### Integrações
 
-<img src="https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot"/>
-<img src="https://img.shields.io/badge/Mercado%20Pago-009EE3?style=for-the-badge&logo=mercadopago&logoColor=white" alt="Mercado Pago"/>
-<img src="https://img.shields.io/badge/APIs-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs"/>
+<img src="https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Bots"/>
+<img src="https://img.shields.io/badge/Mercado%20Pago-009EE3?style=flat-square&logo=mercadopago&logoColor=white" alt="Mercado Pago"/>
+<img src="https://img.shields.io/badge/Automações-7B2CBF?style=flat-square&logo=zap&logoColor=white" alt="Automações"/>
 
 </div>
 
-<br>
+---
 
-## 🎯 Missões Atuais
-
-<details>
-<summary>Ver meu deck atual</summary>
+## Próximo turno
 
 ```javascript
 const joaoVRSM = {
-  nome: "João Victor",
-  titulo: "Duelista Full Stack em formação",
-  academia: "PUC Minas - ADS",
-  deckPrincipal: {
-    linguagens: ["JavaScript", "Python", "HTML", "CSS"],
-    backend: ["Node.js", "Express", "APIs REST"],
-    integracoes: ["Telegram Bot", "Mercado Pago", "automações"]
-  },
-  focoAtual: ["backend", "bots", "pagamentos", "projetos web"],
-  missao: "transformar ideias em sistemas simples, úteis e bem construídos",
-  vantagemDeCampo: "curiosidade + café + prática",
-  proximoTurno: "evoluir um commit por vez"
+  foco: ["backend", "automações", "bots", "integrações"],
+  estudando: "ADS na PUC Minas",
+  stackPrincipal: ["JavaScript", "Node.js", "Python"],
+  objetivo: "transformar boas ideias em software que funciona",
+  status: "evoluindo um commit por vez"
 };
 ```
 
-</details>
-
-<br>
-
 <div align="center">
 
-## 📊 Painel do Duelo
-
-<a href="https://github.com/JoaoVRSM?tab=followers">
-  <img src="https://img.shields.io/github/followers/JoaoVRSM?style=for-the-badge&label=seguidores&color=7B2CBF" alt="Seguidores"/>
-</a>
-<a href="https://github.com/JoaoVRSM?tab=repositories">
-  <img src="https://img.shields.io/badge/repositórios-ver%20projetos-0EA5E9?style=for-the-badge&logo=github" alt="Ver repositórios"/>
-</a>
-<a href="https://github.com/JoaoVRSM">
-  <img src="https://img.shields.io/badge/missão-evoluir%20a%20cada%20commit-F4C95D?style=for-the-badge" alt="Evoluir a cada commit"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/JoaoVRSM?tab=repositories">
-  <img src="https://img.shields.io/badge/stack-JavaScript%20%7C%20Node.js%20%7C%20Python-080B18?style=for-the-badge&logo=code&logoColor=F4C95D" alt="Stack principal"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 🏁 Fim do Turno
-
-<strong>"Acredite no coração das cartas, mas versione seu código."</strong>
+<sub>Acredite no coração das cartas. E versione seu código.</sub>
 
 </div>
