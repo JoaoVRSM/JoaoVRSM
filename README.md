@@ -81,7 +81,10 @@
 
 ## 🎯 Missões Atuais
 
-```js
+<details>
+<summary>Ver meu deck atual</summary>
+
+```javascript
 const joaoVRSM = {
   nome: "João Victor",
   titulo: "Duelista Full Stack em formação",
@@ -97,6 +100,8 @@ const joaoVRSM = {
   proximoTurno: "evoluir um commit por vez"
 };
 ```
+
+</details>
 
 <br>
 
