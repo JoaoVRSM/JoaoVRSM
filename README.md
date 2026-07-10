@@ -13,7 +13,7 @@
 </a>
 &nbsp;
 <a href="https://github.com/JoaoVRSM">
-  <img src="https://komarev.com/ghpvc/?username=JoaoVRSM&style=for-the-badge&color=7B2CBF&label=Visitantes" alt="Visitantes"/>
+  <img src="https://img.shields.io/badge/status-sempre%20aprendendo-7B2CBF?style=for-the-badge" alt="Sempre aprendendo"/>
 </a>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Codando%20no%20Reino%20das%20Sombras-F4C95D?style=for-the-badge&labelColor=080B18" alt="Status"/>
@@ -25,7 +25,7 @@
 <table>
   <tr>
     <td width="38%" align="center">
-      <img src="./yugioh_card.png" width="280" alt="Joao Victor - The Coder Yu-Gi-Oh Card"/>
+      <img src="https://raw.githubusercontent.com/JoaoVRSM/JoaoVRSM/main/yugioh_card.png" width="280" alt="Joao Victor - The Coder Yu-Gi-Oh Card"/>
       <br>
       <sub><strong>ATK/2600</strong> &nbsp; <strong>DEF/2100</strong></sub>
     </td>
@@ -113,10 +113,10 @@ const joaoVRSM = {
   <img src="https://img.shields.io/github/followers/JoaoVRSM?style=for-the-badge&label=seguidores&color=7B2CBF" alt="Seguidores"/>
 </a>
 <a href="https://github.com/JoaoVRSM?tab=repositories">
-  <img src="https://img.shields.io/github/search?query=user%3AJoaoVRSM&style=for-the-badge&label=repositórios&color=0EA5E9" alt="Repositórios"/>
+  <img src="https://img.shields.io/badge/repositórios-ver%20projetos-0EA5E9?style=for-the-badge&logo=github" alt="Ver repositórios"/>
 </a>
 <a href="https://github.com/JoaoVRSM">
-  <img src="https://img.shields.io/github/created-at/JoaoVRSM/JoaoVRSM?style=for-the-badge&label=perfil%20desde&color=F4C95D" alt="Data de criação do perfil"/>
+  <img src="https://img.shields.io/badge/missão-evoluir%20a%20cada%20commit-F4C95D?style=for-the-badge" alt="Evoluir a cada commit"/>
 </a>
 
 <br><br>
@@ -134,9 +134,5 @@ const joaoVRSM = {
 ## 🏁 Fim do Turno
 
 <strong>"Acredite no coração das cartas, mas versione seu código."</strong>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,35:102A43,65:F4C95D,100:7B2CBF&height=120&section=footer" alt="Footer"/>
 
 </div>
