@@ -83,11 +83,18 @@
 
 ```js
 const joaoVRSM = {
-  foco: ["backend", "automações", "bots", "integrações"],
-  estudando: "Análise e Desenvolvimento de Sistemas - PUC Minas",
-  stackPrincipal: ["JavaScript", "Node.js", "Python"],
-  objetivo: "criar soluções simples, úteis e bem construídas",
-  modoDeDuelo: "sempre aprendendo"
+  nome: "João Victor",
+  titulo: "Duelista Full Stack em formação",
+  academia: "PUC Minas - ADS",
+  deckPrincipal: {
+    linguagens: ["JavaScript", "Python", "HTML", "CSS"],
+    backend: ["Node.js", "Express", "APIs REST"],
+    integracoes: ["Telegram Bot", "Mercado Pago", "automações"]
+  },
+  focoAtual: ["backend", "bots", "pagamentos", "projetos web"],
+  missao: "transformar ideias em sistemas simples, úteis e bem construídos",
+  vantagemDeCampo: "curiosidade + café + prática",
+  proximoTurno: "evoluir um commit por vez"
 };
 ```
 
